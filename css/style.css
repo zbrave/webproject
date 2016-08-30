@@ -1,0 +1,29 @@
+/* This css file written by zBrave */
+
+/* Body */
+body{
+  background: url(../images/background/1.jpg) top left repeat;
+}
+
+
+/* Classes */ 
+.dropdownListMenu li a {
+  color: #adadad!important; 
+}
+
+.dropdownListMenu li a:hover {
+  color: #3a3a3a!important;
+}
+
+.marginTop10 {
+  margin-top: 10px!important;
+}
+
+#MySlide .item img{
+  max-height: 450px!important;
+  width: 100%!important;
+}
+
+#MyMenu {
+  margin-bottom: 0px!important;
+}
